@@ -1,1 +1,0 @@
-# mcp_prueba_db
